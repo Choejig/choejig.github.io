@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Choejig/tenjigchoe.github.io",
+    "data-repo": "Choejig/choejig.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
